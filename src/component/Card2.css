@@ -1,0 +1,19 @@
+div.card {
+    width: 348px ;
+    height: 632.297px ;
+}
+
+div.card-body {
+    padding: 0;
+    width: 366px !important;
+}
+
+h5.card-title {
+    width: 366px !important;
+    margin: 0;
+}
+
+img.card-img-top {
+    width: 366px !important;
+    height: 492px !important;
+}

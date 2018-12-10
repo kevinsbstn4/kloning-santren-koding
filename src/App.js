@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return(
       <div>
-       <Conter/>
+       <Home/>
 
      </div>
     )
