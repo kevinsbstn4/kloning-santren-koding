@@ -39,7 +39,7 @@ export default class Card2 extends Component{
                     <CardBody className="juh">
                     <CardTitle>Kajian Koding #2</CardTitle>
                     <CardText className="lol">html, css, boostrap dasar</CardText>
-                    <CardText className='cornerMessage'>By Santren Koding</CardText>
+                    <CardText className='cornerMessage'>Bye Santren Koding</CardText>
                     </CardBody>
                 </Card>
                 <Card>
