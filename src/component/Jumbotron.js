@@ -6,7 +6,7 @@ import './Jumbotron.css'
 export default class jumbotron extends Component{
     render(){
         return(         
-            <div className="mboh">
+            <div>
                  <center>
                 <Jumbotron fluid>
                 <Container fluid>

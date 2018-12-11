@@ -1,0 +1,19 @@
+
+.tul:hover{
+    color: black;
+}
+.nav{
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+.nav img{
+    width: 45px;
+    height: 45px;
+}
+.atas{
+    font-size: 15px;
+
+}
+.tul{
+    cursor: pointer;
+}
